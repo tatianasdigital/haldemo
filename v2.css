@@ -749,3 +749,6 @@
 }
 .v2 .voice__play-btn img { width: 32px; height: 32px; transform: rotate(-90deg); }
 .v2 .voice__play-text { font-size: 14px; font-weight: 600; line-height: 1; color: var(--white); white-space: nowrap; text-shadow: 0 1px 8px rgba(0,0,0,.35); }
+
+/* Блок Map скрыт полностью (код оставлен — чтобы вернуть, удалить это правило) */
+.v2 .map { display: none; }
