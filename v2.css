@@ -127,6 +127,7 @@
 .v2 .pg__label { position: absolute; height: 56px; display: flex; align-items: center; justify-content: center; }
 .v2 .pg__label--241 { width: 241px; }
 .v2 .pg__label--328 { width: 328px; }
+.v2 .pg__label--279 { width: 279px; }
 .v2 .pg__brush { position: absolute; inset: 0; }
 .v2 .pg__brush > span { position: absolute; }
 .v2 .pg__brush img { width: 100%; height: 100%; }
@@ -140,7 +141,7 @@
 .v2 .pg--support    .pg__label { left: 284px;  top: 125px; }
 .v2 .pg--resilience .pg__label { left: -146px; top: 264px; }
 .v2 .pg--skills     .pg__label { left: -144px; top: 55px; }
-.v2 .pg--future     .pg__label { left: 230px;  top: 84px; }
+.v2 .pg--future     .pg__label { left: 180px;  top: 53px; }   /* Figma 124:3681 */
 
 /* ---------- Анимация появления ----------
    Старт — когда .programs получает .is-visible (script.js, середина блока доходит до низа экрана).
